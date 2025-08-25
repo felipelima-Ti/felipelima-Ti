@@ -1,38 +1,32 @@
-<h1 align="center">👋 Olá, eu sou o Felipe!</h1>
+# 👋 Olá, eu sou o Felipe Lima  
 
-<p align="center">
-  🔭 Atualmente trabalhando em projetos de <b>React</b><br>
-  🌱 Estudando <b>Next.js</b> e <b>Tailwind CSS</b><br>
-  📫 Como me encontrar: <a href="https://www.linkedin.com/felipebelisario">LinkedIn</a> | <a href="https://twitter.com/felipelimah">Twitter</a>
-</p>
+💻 Desenvolvedor apaixonado por tecnologia e inovação.  
+🚀 Sempre em busca de aprender coisas novas e compartilhar conhecimento.  
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias que uso
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript, TailwindCSS  
+- **Backend:** Node.js, Prisma, Firebase  
+- **Banco de Dados:** MySQL, PostgreSQL, Firestore  
+- **Outros:** Git, GitHub Actions, Docker  
 
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,git" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipelima-Ti&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima-Ti&layout=compact&theme=dracula" />
 </div>
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipelima-Ti&show_icons=true&theme=radical" alt="stats Felipe" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima-Ti&layout=compact&theme=radical" alt="langs Felipe" height="160"/>
-</p>
+## 🌐 Onde me encontrar
+- ✉️ Email: [seuemail@email.com](mailto:seuemail@email.com)
+- 💼 LinkedIn: [linkedin.com/in/felipelima](https://www.linkedin.com/in/felipelima)
+- 📂 Portfólio: [seusite.com](https://seusite.com)
 
 ---
 
-## 🐍 A cobrinha das contribuições
-
+## 🐍 Snake Eating My Contributions
 ![snake gif](https://raw.githubusercontent.com/felipelima-Ti/felipelima-Ti/output/snake.gif)
-
----
-
-## 🎉 Um pouco mais sobre mim
-
-- 🎮 Amo tecnologia e games  
-- 🤖 Curto automação e criação de bots  
-- 📚 Sempre aprendendo algo novo  
