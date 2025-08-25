@@ -1,28 +1,24 @@
-name: Generate Snake Game
+name: Deploy Snake to GitHub
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite (UTC)
-  workflow_dispatch:      # permite rodar manualmente
+    - cron: "0 */12 * * *" # Executa a cada 12h
+  workflow_dispatch:       # Permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 🔑 Permissão para dar push no repositório
 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: felipelima-Ti   # seu usuário
-          outputs: dist/snake.svg
-
       - name: Deploy Snake to GitHub
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output   # branch onde vai salvar o snake.svg
-          build_dir: dist
+          target_branch: output   # branch onde ficará o jogo
+          build_dir: dist         # pasta de saída do jogo
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
