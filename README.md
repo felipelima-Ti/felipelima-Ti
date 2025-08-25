@@ -28,5 +28,5 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
+
 ![snake gif](https://raw.githubusercontent.com/felipelima-Ti/felipelima-Ti/output/snake.gif)
