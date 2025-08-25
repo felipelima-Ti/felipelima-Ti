@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Felipe Lima  
+# 👋 Olá, eu sou o Felipe 
 
 💻 Desenvolvedor apaixonado por tecnologia e inovação.  
 🚀 Sempre em busca de aprender coisas novas e compartilhar conhecimento.  
