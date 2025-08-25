@@ -27,7 +27,7 @@
 
 ## 🐍 A cobrinha das contribuições
 
-![Snake animation](https://github.com/felipelima-Ti/felipelima-Ti/blob/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/felipelima-Ti/felipelima-Ti/output/snake.gif)
 
 ---
 
