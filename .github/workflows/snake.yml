@@ -19,6 +19,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output   # branch onde ficará o jogo
-          build_dir: dist         # pasta de saída do jogo
+          build_dir: dist         # pasta onde estão os arquivos prontos
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
