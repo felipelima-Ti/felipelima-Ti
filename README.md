@@ -29,4 +29,4 @@
 ---
 
 
-![snake gif](https://raw.githubusercontent.com/felipelima-Ti/felipelima-Ti/output/snake.gif)
+![snake gif](https://raw.githubusercontent.com/felipelima-Ti/felipelima-Ti/output/snake-dark.svg?palette=github-dark)
