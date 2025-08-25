@@ -1,24 +1,31 @@
-name: Deploy Snake to GitHub
+name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12h
-  workflow_dispatch:       # Permite rodar manualmente
+  schedule: # Executa automaticamente todo dia às 23:45 UTC
+    - cron: "45 23 * * *"
+  workflow_dispatch: # Permite rodar manualmente pelo GitHub Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # 🔑 Permissão para dar push no repositório
-
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Deploy Snake to GitHub
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          target_branch: output   # branch onde ficará o site
-          build_dir: dist         # 👈 pasta dist
+          github_user_name: felipelima-Ti
+          outputs: |
+            dist/snake.svg
+            dist/snake.gif
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.gif?palette=github-dark
+
+      - name: Upload Snake to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
