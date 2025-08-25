@@ -1,10 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o Felipe!</h1>
 
 <p align="center">
-  🔭 Atualmente trabalhando em projetos de <b>C</b> e <b>React</b><br>
+  🔭 Atualmente trabalhando em projetos de <b>React</b><br>
   🌱 Estudando <b>Next.js</b> e <b>Tailwind CSS</b><br>
-  💬 Pergunte-me sobre programação e bots para Discord<br>
-  📫 Como me encontrar: <a href="https://www.linkedin.com/">LinkedIn</a> | <a href="https://twitter.com/">Twitter</a>
+  📫 Como me encontrar: <a href="https://www.linkedin.com/felipebelisario">LinkedIn</a> | <a href="https://twitter.com/felipelimah">Twitter</a>
 </p>
 
 ---
@@ -12,7 +11,7 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,git,discord,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,github,git" />
 </div>
 
 ---
