@@ -6,7 +6,7 @@
     🚀 Sempre em busca de aprender coisas novas e compartilhar conhecimento.</p>
   </div>
 </div>
----
+
 
 ## 🚀 Tecnologias que uso
 - **Frontend:** React, Next.js, HTML, CSS, JavaScript, TailwindCSS  
