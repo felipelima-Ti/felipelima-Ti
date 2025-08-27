@@ -1,5 +1,5 @@
 <div align="center" style="position: relative; text-align: center; color: white;">
-  <img src="https://i.pinimg.com/originals/4c/92/72/4c9272e06d9db536dacb1df0b0f44bd7.jpg" width="80%" height="200" style="filter: brightness(40%);" />
+  <img src="https://i.pinimg.com/1200x/79/4b/20/794b207c1a6065b5e50ca394ee5fce58.jpg" width="80%" height="200" style="filter: brightness(40%);" />
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <h1>👋 Olá, eu sou o Felipe</h1>
     <p>💻 Desenvolvedor apaixonado por tecnologia e inovação.<br/>
