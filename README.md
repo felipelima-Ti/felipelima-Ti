@@ -24,8 +24,9 @@
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
-<br><br>
+<br>
 ## 📊 GitHub Stats
+<br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipelima-Ti&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima-Ti&layout=compact&theme=dracula" />
