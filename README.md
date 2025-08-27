@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=header)
 <div align="center" style="position: relative; text-align: center; color: white;">
   <img src="https://i.pinimg.com/736x/8e/bf/b8/8ebfb8e8ace84d84d6ab5ed6adfb4a73.jpg" width="80%" height="400" style="filter: brightness(40%);" />
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
