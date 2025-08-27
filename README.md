@@ -1,4 +1,4 @@
-<img width="800" height="200" src="https://piktochart.com/wp-content/uploads/2023/10/large-204.jpg">
+<img width="500" height="200" src="https://piktochart.com/wp-content/uploads/2023/10/large-204.jpg">
 # 👋 Olá, eu sou o Felipe 
 
 💻 Desenvolvedor apaixonado por tecnologia e inovação.  
