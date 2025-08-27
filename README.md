@@ -1,11 +1,11 @@
-<div align="center">
-  <img src="https://piktochart.com/wp-content/uploads/2023/10/large-204.jpg" width="100%" height="auto" />
+<div align="center" style="position: relative; text-align: center; color: white;">
+  <img src="https://piktochart.com/wp-content/uploads/2023/10/large-204.jpg" width="100%" height="auto" style="filter: brightness(40%);" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <h1>👋 Olá, eu sou o Felipe</h1>
+    <p>💻 Desenvolvedor apaixonado por tecnologia e inovação.<br/>
+    🚀 Sempre em busca de aprender coisas novas e compartilhar conhecimento.</p>
+  </div>
 </div>
-# 👋 Olá, eu sou o Felipe 
-
-💻 Desenvolvedor apaixonado por tecnologia e inovação.  
-🚀 Sempre em busca de aprender coisas novas e compartilhar conhecimento.  
-
 ---
 
 ## 🚀 Tecnologias que uso
