@@ -36,7 +36,7 @@
 <br><br>
 ## 🌐 Onde me encontrar
 - ✉️ Email: [felipelima1114@gmail.com](felipelima1114@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/felipelima](https://www.linkedin.com/in/felipelima)
+- 💼 LinkedIn: [linkedin.com/in/felipelimati](www.linkedin.com/in/felipelimati)
 
 ---
 
