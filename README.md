@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=header)
 <div align="center" style="position: relative; text-align: center; color: white;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=0A74DA&center=true&vCenter=true&width=500&lines=👋+Olá,+eu+sou+o+Felipe;)](https://git.io/typing-svg)
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=0A74DA&center=true&vCenter=true&width=500&lines=👋+Olá,+eu+sou+o+Felipe;💻+Desenvolvedor+apaixonado+por+tecnologia;🚀+Sempre+aprendendo+e+inovando)](https://git.io/typing-svg)
     <p>💻 Desenvolvedor apaixonado por tecnologia e inovação.<br/>
     🚀 Sempre em busca de aprender coisas novas e compartilhar conhecimento.</p>
   </div>
