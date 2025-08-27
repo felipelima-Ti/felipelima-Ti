@@ -31,7 +31,7 @@
 <br>
  📊 <b>GitHub Stats</b>
 <br><br>
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima-Ti&layout=compact&theme=dracula" />
 </div>
 
