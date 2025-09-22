@@ -1,9 +1,8 @@
 
 
 
-<div widht="100%"></div>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=header)
-<div align="center" style="position: relative; text-align: center; color: white;">
+<div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
    <p align="center">
   <a href="https://git.io/typing-svg">
