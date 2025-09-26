@@ -10,7 +10,7 @@
   </a>
 </p>
     <p>💻 Desenvolvedor apaixonado por tecnologia e inovação.<br/>
-    👨‍💻 Sempre em busca de aprender coisas novas e compartilhar conhecimento.</p>
+    🚀 Sempre em busca de aprender coisas novas e compartilhar conhecimento.</p>
   </div>
 </div>
 
