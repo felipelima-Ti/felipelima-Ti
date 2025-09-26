@@ -15,7 +15,7 @@
 </div>
 
 
- 🚀 <b>Tecnologias que uso</b>
+  <b>Tecnologias que uso</b>
 - **Frontend:** React, Next.js, HTML, CSS, JavaScript, TailwindCSS  
 - **Backend:** Node.js, Prisma, Firebase  
 - **Banco de Dados:** MySQL,Firestore 
