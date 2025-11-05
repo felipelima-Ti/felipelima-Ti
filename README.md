@@ -13,7 +13,7 @@
     🚀 Sempre em busca de aprender coisas novas e compartilhar conhecimento.</p>
   </div>
 </div>
-
+<br><br><br>
 
   <b>Tecnologias que uso</b>
 - **Frontend:** React, Next.js, HTML, CSS, JavaScript, TailwindCSS  
