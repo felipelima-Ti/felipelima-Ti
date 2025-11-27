@@ -17,8 +17,7 @@
 
   <b>Tecnologias que uso</b>
 - **Frontend:** React, Next.js, TypeScript, HTML, CSS, JavaScript, TailwindCSS  
-- **Backend:** Node.js, Prisma, Firebase  
-- **Banco de Dados:** MySQL,Firestore 
+- **Backend:** Node.js, Prisma, Firebase,MySQL  
 - **Outros:** Git, GitHub  
 
 ---
