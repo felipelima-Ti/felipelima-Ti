@@ -38,6 +38,7 @@
 ---
 <br><br>
 ## 🌐 Onde me encontrar
+- 👩‍💻 portifolio [Meu portifolio](https://portifolio-felipelimadev.vercel.app/)
 - ✉️ Email: [felipelima1114@gmail.com](felipelima1114@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/felipelimati](https://www.linkedin.com/in/felipelimaTi/)
 
