@@ -10,7 +10,7 @@
   </a>
 </p>
     <p>💻 Desenvolvedor Full stack <br/>
-    👨‍💻 Meu trabalho consiste me criar aplicaçoes dinamicas com performance, responsividade e uma boa esperiencia a usuarios.</p>
+    👨‍💻 Meu trabalho consiste me criar aplicaçoes dinamicas com performance,<br/> responsividade e uma boa esperiencia a usuarios.</p>
     <br/>
     tenho conhecimento em: Programaçao | Criaçao de agentes IA | Criaçao de aplicativos mobile
   </div>
