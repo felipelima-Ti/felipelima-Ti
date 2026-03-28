@@ -9,8 +9,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0A74DA&center=true&vCenter=true&width=700&lines=+Olá,+eu+sou+o+Felipe;" />
   </a>
 </p>
-    <p>💻 Desenvolvedor apaixonado por tecnologia e inovação.<br/>
-    👨‍💻 Sempre em busca de aprender coisas novas e compartilhar conhecimento.</p>
+    <p>💻 Desenvolvedor Full stack <br/>
+    👨‍💻 Meu trabalho consiste me criar aplicaçoes dinamicas com performance, responsividade e uma boa esperiencia a usuarios.</p>
+    <br/>
+    tenho conhecimento em: Programaçao | Criaçao de agentes IA | Criaçao de aplicativos mobile
   </div>
 </div>
 <br><br><br>
