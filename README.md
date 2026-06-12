@@ -44,8 +44,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" style="margin-right: 5px;" />
 </div>
 <br/>
-<br>
-<p>
+<br/>
  <b>Onde me encontrar</b>
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
@@ -53,6 +52,6 @@
 <a href="https://seuportfolio.com">
   <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-</p>
+
 
 ![snake gif](https://raw.githubusercontent.com/felipelima-Ti/felipelima-Ti/output/snake-dark.svg?palette=github-dark)
