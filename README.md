@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right: 5px;" />
 </div>
 <br/>
-<b>Backend:</b> Node.js, Prisma, Firebase,MySQL
+<b>Backend:</b>
 <br/><br/>
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
@@ -37,7 +37,7 @@
   
   </div>
   <br/>
-<b>Outros:</b> Git, GitHub
+<b>Outros:</b>
 <br/><br/>
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 5px;" />&nbsp;
