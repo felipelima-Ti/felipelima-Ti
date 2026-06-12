@@ -28,30 +28,21 @@
 </div>
   <b>Tecnologias que uso</b>
   <br/><br/>
- <b>Frontend:</b>
+ <b>Principais</b>
 <br/><br/>
 <div style="display: inline_block">
  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="margin-right: 5px;" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="margin-right: 5px;" />&nbsp;
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin-right: 5px;" />
-
 <br/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 5px;" />&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-right: 5px;" />&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right: 5px;" />
-</div>
-<br/>
-<b>Backend:</b>
-<br/><br/>
-<div style="display: inline_block">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
-  
-  </div>
-  <br/>
+</div>
+<br/>
+<br/>
 <b>Ferramentas:</b>
 <br/><br/>
 <div style="display: inline_block">
@@ -62,6 +53,18 @@
 </div>
 <br/>
 <br/>
+<b>Outros Conhecimentos:</b>
+<br/><br/>
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
+  
+  </div>
+  <br/>
 <hr/>
  <b>Onde me encontrar</b>
 <br/><br/>
