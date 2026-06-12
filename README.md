@@ -26,10 +26,11 @@
 </div>
 <br/>
 - **Backend:** Node.js, Prisma, Firebase,MySQL,python
-<div style="display: inline_block"><br/>
+<div style="display: inline_block"><br/><br/>
   <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </div>
+  <br/><br/>
 - **Outros:** Git, GitHub
 <br/>
 <br/>
