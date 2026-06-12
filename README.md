@@ -53,7 +53,7 @@
   </a>&nbsp;
   
   <a href="https://seuportfolio.com">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
