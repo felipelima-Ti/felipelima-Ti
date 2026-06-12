@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
   
   </div>
   <br/>
