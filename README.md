@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:000000,100:0000001&text=Felipe%20Lima&fontColor=fcfcfc&fontSize=55&desc=Front-End%20Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:000000,100:0000001&text=Felipe%20Lima&fontColor=fcfcfc&fontSize=55&desc=Front-End%20Developer" />
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 <div align="center">
