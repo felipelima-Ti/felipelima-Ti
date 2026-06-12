@@ -49,6 +49,7 @@
 <img src="https://img.shields.io/badge/Vs Code-043bb3?style=for-the-badge&logo=vscode&logoColor=white" style="margin-right: 5px;" />&nbsp;
 <img src="https://img.shields.io/badge/Git-e85405?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 5px;" />&nbsp;
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right: 5px;" />
 
 </div>
 <br/>
