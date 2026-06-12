@@ -52,11 +52,12 @@
   
   </div>
   <br/>
-<b>Outros:</b>
+<b>Ferramentas:</b>
 <br/><br/>
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 5px;" />&nbsp;
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/VsCode-000000?style=for-the-badge&logo=vscode&logoColor=white" style="margin-right: 5px;" />
 </div>
 <br/>
 <br/>
