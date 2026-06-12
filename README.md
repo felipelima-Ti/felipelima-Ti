@@ -30,18 +30,18 @@
 <b>Backend:</b> Node.js, Prisma, Firebase,MySQL
 <br/><br/>
 <div style="display: inline_block">
-<img src="https://img.shields.io/badge/Mysql.js-000000?style=for-the-badge&logo=myslq&logoColor=white" style="margin-right: 5px;" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" style="margin-right: 5px;" />&nbsp;
-<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" style="margin-right: 5px;" />&nbsp;
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   
   </div>
   <br/>
 <b>Outros:</b> Git, GitHub
 <br/><br/>
 <div style="display: inline_block">
-<img src="https://img.shields.io/badge/Git-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 5px;" />&nbsp;
-<img src="https://img.shields.io/badge/GitHub-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 5px;" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 5px;" />
 </div>
 <br/>
 <br>
