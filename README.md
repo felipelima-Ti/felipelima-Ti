@@ -67,10 +67,16 @@
   </div>
   <br/>
 <hr/>
- <b>Onde me encontrar</b>
-<a href="https://seuportfolio.com">
-  <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+<p align="left">
+  <b>Onde me encontrar</b>
+  <a href="https://seuportfolio.com">
+    <img
+      alt="Portfólio"
+      src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      align="center"
+    />
+  </a>
+</p>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
