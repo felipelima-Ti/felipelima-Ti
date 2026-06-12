@@ -27,18 +27,21 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right: 5px;" />
 </div>
 <br/>
-<b>Backend:</b> Node.js, Prisma, Firebase,MySQL,python
+<b>Backend:</b> Node.js, Prisma, Firebase,MySQL
 <br/><br/>
 <div style="display: inline_block">
-  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img src="https://img.shields.io/badge/Mysql.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 5px;" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 5px;" />&nbsp;
+<img src="https://img.shields.io/badge/Prisma-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-right: 5px;" />&nbsp;
+<img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right: 5px;" />
+  
   </div>
   <br/>
 <b>Outros:</b> Git, GitHub
 <br/><br/>
 <div style="display: inline_block">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img src="https://img.shields.io/badge/Git-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 5px;" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 5px;" />
 </div>
 <br/>
 <br>
