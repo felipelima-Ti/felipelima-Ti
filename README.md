@@ -9,6 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0A74DA&center=true&vCenter=true&width=700&lines=+Olá,+eu+sou+o+Felipe;" />
   </a>
 </p>
+  </div>
   <b>Tecnologias que uso</b>
 - **Frontend:** React, Next.js, TypeScript, HTML, CSS, JavaScript, TailwindCSS,python
 <div style="display: inline_block">
