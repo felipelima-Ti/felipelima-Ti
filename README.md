@@ -3,7 +3,7 @@
   <div align="center">
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0A192F,50:1D4ED8,100:60A5FA&text=&fontColor=FFFFFF&fontSize=20"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0A192F,50:1D4ED8,100:60A5FA&text=&fontColor=FFFFFF&fontSize=20"
 />
   </div>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
