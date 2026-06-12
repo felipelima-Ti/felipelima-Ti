@@ -45,16 +45,17 @@
 </div>
 <br/>
 <br>
-<b>Onde me encontrar</b>
-<br/>
 <p>
-  <a href="https://www.linkedin.com/in/felipelimati/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=&logoColor=white"/>
-  </a>
-  
-  <a href="https://portifolio-felipelimadev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+ <b>Onde me encontrar</b>
+<br><br>
+
+<a href="https://www.linkedin.com/in/seu-perfil">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://seuportfolio.com">
+  <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/felipelima-Ti/felipelima-Ti/output/snake-dark.svg?palette=github-dark)
