@@ -60,6 +60,7 @@
 </div>
 <br/>
 <br/>
+<hr/>
  <b>Onde me encontrar</b>
 <br/><br/>
 
