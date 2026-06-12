@@ -67,13 +67,13 @@
   </div>
   <br/>
 <hr/>
+<div style="display: inline_block">
  <b>Onde me encontrar</b>
-<br/><br/>
 
 <a href="https://seuportfolio.com">
   <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-
+</div>
 ![snake gif](https://raw.githubusercontent.com/felipelima-Ti/felipelima-Ti/output/snake-dark.svg?palette=github-dark)
