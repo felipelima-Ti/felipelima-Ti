@@ -9,14 +9,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0A74DA&center=true&vCenter=true&width=700&lines=+Olá,+eu+sou+o+Felipe;" />
   </a>
 </p>
-    <p>💻 Desenvolvedor Full stack <br/>
-    👨‍💻 Meu trabalho consiste me criar aplicaçoes dinamicas com performance,<br/> responsividade e uma boa esperiencia a usuarios.</p>
-    <br/>
-    tenho conhecimento em: Programaçao | Criaçao de agentes IA | Criaçao de aplicativos mobile
-  </div>
-</div>
-<br><br><br>
-
   <b>Tecnologias que uso</b>
 - **Frontend:** React, Next.js, TypeScript, HTML, CSS, JavaScript, TailwindCSS,python
 <div style="display: inline_block">
