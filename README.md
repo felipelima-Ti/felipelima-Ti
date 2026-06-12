@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color==00FF00&height=120&section=header)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:000000,100:00ff41&text=Felipe%20Lima&fontColor=00ff41&fontSize=55&animation=twinkling&desc=Front-End%20Developer&descAlignY=65" />
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 <div align="center">
