@@ -68,7 +68,7 @@
   <br/>
 <hr/>
 <p align="left">
-  <b>Onde me encontrar</b><br><br>
+  <b>Me Contate:</b><br><br>
 </p>
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)
