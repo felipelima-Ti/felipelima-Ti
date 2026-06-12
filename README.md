@@ -30,10 +30,10 @@
 <b>Backend:</b> Node.js, Prisma, Firebase,MySQL
 <br/><br/>
 <div style="display: inline_block">
-<img src="https://img.shields.io/badge/Mysql.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 5px;" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right: 5px;" />&nbsp;
-<img src="https://img.shields.io/badge/Prisma-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-right: 5px;" />&nbsp;
-<img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/Mysql.js-000000?style=for-the-badge&logo=myslq&logoColor=white" style="margin-right: 5px;" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" style="margin-right: 5px;" />&nbsp;
+<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" style="margin-right: 5px;" />&nbsp;
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" style="margin-right: 5px;" />
   
   </div>
   <br/>
