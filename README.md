@@ -46,11 +46,10 @@
 <br/>
 <br/>
  <b>Onde me encontrar</b>
-<br/><br/>
-
+<br/>
 
 <a href="https://seuportfolio.com">
-  <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;
 </a>
 <br/><br/>
 
