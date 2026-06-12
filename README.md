@@ -2,6 +2,9 @@
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
  <p align="center">
+   <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=👋+Olá,+eu+sou+o+Felipe;💻+Desenvolvedor+Front-End;🚀+Criando+projetos+com+React+e+Next.js" />
+</h1>
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FOCUS-NEXT.JS-00FF41?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LEARNING-TYPESCRIPT-00FF41?style=for-the-badge" />
