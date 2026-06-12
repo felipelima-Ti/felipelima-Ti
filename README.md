@@ -1,6 +1,9 @@
 
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:000000,100:0000001&text=Felipe%20Lima&fontColor=fcfcfc&fontSize=30&desc=Front-End%20Developer&descAlignY=65" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:000000,100:000000&text=Felipe%20Lima&fontColor=ffffff&fontSize=45&desc=Front-End%20Developer&descAlignY=58"
+  />
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 <div align="center">
   <div
