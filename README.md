@@ -1,13 +1,10 @@
 
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=header)
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-   <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0A74DA&center=true&vCenter=true&width=700&lines=+Olá,+eu+sou+o+Felipe;" />
-  </a>
+ <p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-NEXT.JS-00FF41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARNING-TYPESCRIPT-00FF41?style=for-the-badge" />
 </p>
   </div>
 </div>
