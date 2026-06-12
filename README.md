@@ -31,7 +31,7 @@
  <b>Principais</b>
 <br/><br/>
 <div style="display: inline_block">
- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="margin-right: 5px;" />&nbsp;
+ <img src="https://img.shields.io/badge/Next.js-025ff5?style=for-the-badge&logo=nextdotjs&logoColor=white" style="margin-right: 5px;" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="margin-right: 5px;" />&nbsp;
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin-right: 5px;" />
 <br/>
@@ -71,7 +71,7 @@
   <b>Me Contate:</b><br><br>
 </p>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logoColor=white)](https://portifolio-felipelimadev.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-025ff5?style=for-the-badge&logoColor=white)](https://portifolio-felipelimadev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipelimati/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=felipelima1114@gmail.com)
 
