@@ -47,11 +47,13 @@
 <br>
 
 <br><br>
-## 🌐 Onde me encontrar
-- 👩‍💻 portifolio [Meu portifolio](https://portifolio-felipelimadev.vercel.app/)
-- ✉️ Email: [felipelima1114@gmail.com](felipelima1114@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/felipelimati](https://www.linkedin.com/in/felipelimaTi/)
+<b> Onde me encontrar</b>
+<a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<a href="https://seuportfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 ![snake gif](https://raw.githubusercontent.com/felipelima-Ti/felipelima-Ti/output/snake-dark.svg?palette=github-dark)
