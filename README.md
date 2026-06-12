@@ -49,8 +49,8 @@
 <br/>
 <p>
   <a href="https://www.linkedin.com/in/seu-perfil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=&logoColor=white"/>
+  </a>
   
   <a href="https://seuportfolio.com">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
