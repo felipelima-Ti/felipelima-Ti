@@ -12,8 +12,6 @@
   >
     <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-NEXT.JS-00FF41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEARNING-TYPESCRIPT-00FF41?style=for-the-badge" />
 </p>
     <a href="https://git.io/typing-svg">
       <img
