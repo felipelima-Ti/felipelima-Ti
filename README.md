@@ -1,10 +1,10 @@
 
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
   <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:01083d,100:2840fa&text=Dev.FullStack&fontColor=242323&fontSize=20"
-  />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0A192F,50:1D4ED8,100:60A5FA&text=Dev.FullStack&fontColor=FFFFFF&fontSize=20"
+/>
   </div>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 <div align="center">
