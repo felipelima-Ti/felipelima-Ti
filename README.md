@@ -16,9 +16,6 @@
         alt="Typing SVG"
       />
     </a>
-     <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge" />
-</p>
   </div>
 </div>
   </div>
