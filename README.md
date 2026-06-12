@@ -13,7 +13,7 @@
 </div>
   <b>Tecnologias que uso</b>
   <br/><br/>
-- **Frontend:** React, Next.js, TypeScript, HTML, CSS, JavaScript, TailwindCSS,python
+ #Frontend: React, Next.js, TypeScript, HTML, CSS, JavaScript, TailwindCSS,python
 <br/><br/>
 <div style="display: inline_block">
   <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -21,29 +21,22 @@
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 <br/>
-- **Backend:** Node.js, Prisma, Firebase,MySQL,python
+- Backend: Node.js, Prisma, Firebase,MySQL,python
 <br/><br/>
 <div style="display: inline_block">
   <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </div>
   <br/>
-- **Outros:** Git, GitHub
+- Outros: Git, GitHub
 <br/><br/>
 <div style="display: inline_block">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 <br/>
-
----
-<div style="display: inline_block">
-
-</div>
 <br>
 
-
----
 <br><br>
 ## 🌐 Onde me encontrar
 - 👩‍💻 portifolio [Meu portifolio](https://portifolio-felipelimadev.vercel.app/)
