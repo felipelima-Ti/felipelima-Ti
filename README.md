@@ -45,13 +45,15 @@
 </div>
 <br/>
 <br>
-<b> Onde me encontrar</b>
+<b>Onde me encontrar</b>
 <br/>
-<a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;
-</a>
-<a href="https://seuportfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/seu-perfil/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+
+<a href="https://seuportfolio.com">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge" />
 </a>
 
 ![snake gif](https://raw.githubusercontent.com/felipelima-Ti/felipelima-Ti/output/snake-dark.svg?palette=github-dark)
