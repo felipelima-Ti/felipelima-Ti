@@ -10,6 +10,7 @@
   </a>
 </p>
   </div>
+</div>
   <b>Tecnologias que uso</b>
 - **Frontend:** React, Next.js, TypeScript, HTML, CSS, JavaScript, TailwindCSS,python
 <div style="display: inline_block">
