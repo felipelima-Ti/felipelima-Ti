@@ -13,7 +13,7 @@
 </div>
   <b>Tecnologias que uso</b>
   <br/><br/>
- <b>Frontend:</b> React, Next.js, TypeScript, HTML, CSS, JavaScript, TailwindCSS,python
+ <b>Frontend:</b>
 <br/><br/>
 <div style="display: inline_block">
  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="margin-right: 5px;" />&nbsp;
