@@ -26,6 +26,7 @@
 </div>
   </div>
 </div>
+<br/>
 desde pequeno sempre gostei de tecnologia e jogos <br/> o que me dispertou vontade de aprender <br/> e muitas vezes uso como hoob para criar coisas
 <br/>
 <br/>
