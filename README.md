@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=120&section=header)
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0A74DA&center=true&vCenter=true&width=700&lines=+HELLO,+eu+sou+o+Felipe;" />
