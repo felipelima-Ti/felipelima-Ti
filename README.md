@@ -1,10 +1,7 @@
 
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
   <div align="center">
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0A192F,50:1D4ED8,100:60A5FA&text=&fontColor=FFFFFF&fontSize=20"
-/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0A74DA&center=true&vCenter=true&width=700&lines=+HELLO,+eu+sou+o+Felipe; Desenvolvedor+Fullstack" />
   </div>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 <div align="center">
