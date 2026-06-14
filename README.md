@@ -3,6 +3,9 @@
 
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
   <div align="center">
+      <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0A74DA&center=true&vCenter=true&width=700&lines=+Olá,+eu+sou+o+Felipe;" />
+  </a>
   </div>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 <div align="center">
