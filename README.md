@@ -27,7 +27,6 @@
   </div>
 </div>
 <br/>
-desde pequeno sempre gostei de tecnologia e jogos<br/> o que me dispertou vontade de aprender <br/> a programaçao muitas vezes uso para criar sistemas funcinais<br/> e uso tambem como hoob para aprender e criar jogos
 <br/>
 <br/>
   <b>Tecnologias que uso</b>
