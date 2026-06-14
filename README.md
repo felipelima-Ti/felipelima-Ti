@@ -2,7 +2,6 @@
 
 
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
-  <img src="https://i.pinimg.com/736x/ab/82/a7/ab82a77008198b3e5b8fe197bfae249e.jpg"/>
   <div align="center">
   </div>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
