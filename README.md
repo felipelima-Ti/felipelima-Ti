@@ -13,12 +13,6 @@
       border-radius: 12px;
     "
   >
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.herokuapp.com?size=28&color=04b507&center=true=hello+my+name+is+Felipe;Desenvolvedor+Full-stack;"
-        alt="Typing SVG"
-      />
-    </a>
   </div>
 </div>
   </div>
