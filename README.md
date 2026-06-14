@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=100&section=header)
 
-<img src="https://i.pinimg.com/736x/e2/91/50/e291509e092c5cdee97335aecdd104b9.jpg"/>
+
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
+  <img src="https://i.pinimg.com/736x/e2/91/50/e291509e092c5cdee97335aecdd104b9.jpg"/>
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0A74DA&center=true&vCenter=true&width=700&lines=+HI,+my+name+is+Felipe;+Developer+Full+stack;" />
   </div>
