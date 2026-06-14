@@ -18,7 +18,7 @@
   >
     <a href="https://git.io/typing-svg">
       <img
-        src="https://readme-typing-svg.herokuapp.com?size=28&color=04b507&center=true&vCenter=true&width=700&lines=HELLO+,+MY+NAME+IS+Felipe;+Desenvolvedor+Full-stack;"
+        src="https://readme-typing-svg.herokuapp.com?size=28&color=04b507&center=true&vCenter=true&width=700&lines=HELLO+MY+NAME+IS+Felipe;+Desenvolvedor+Full-stack;"
         alt="Typing SVG"
       />
     </a>
