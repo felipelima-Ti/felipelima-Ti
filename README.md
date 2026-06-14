@@ -4,7 +4,6 @@
 <div widht="100%" align="center" style="position: relative; text-align: center; color: white;">
   <img src="https://i.pinimg.com/736x/ab/82/a7/ab82a77008198b3e5b8fe197bfae249e.jpg"/>
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0A74DA&center=true&vCenter=true&width=700&lines=+HI,+my+name+is+Felipe;+Developer+Full+stack;" />
   </div>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 <div align="center">
